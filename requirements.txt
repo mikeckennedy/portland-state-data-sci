@@ -1,0 +1,6 @@
+jupyterlab
+scipy
+numpy
+matplotlib
+ipywidgets
+feedparser
